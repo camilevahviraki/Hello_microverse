@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Usage
 
-Double click on Hello.html file
+Double click on index.html file
 
 
 
